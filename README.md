@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello World, I'm Lucas Araujo!
+- Backend Developer at [Stalo Software Studio](https://stalo.digital/) <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="40">
+- Bachelor's degree in Computer Science from [UNIPÊ](https://www.unipe.edu.br/) <img src="https://www.shutterstock.com/image-photo/cute-white-cat-graduates-hat-600nw-2166454931.jpg" width="40">
 
-<!--
-**lucasaraujo-stalo/lucasaraujo-stalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img aling="center" height="300em" src="https://giffiles.alphacoders.com/190/190634.gif"/>
+</div>
 
-Here are some ideas to get you started:
+### A little more about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const lucas = {
+  pronouns: "he" | "him",
+  code: [PHP, Java, JavaScript, TypeScript, HTML, CSS],
+  tools: [Laravel, Spring Boot, React, TailWindCSS, Docker, MySQL, PostgreSQL],
+  architecture: [MVC, Domain-Driven Design],
+}
+```
+
+##
